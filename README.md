@@ -10,4 +10,4 @@ Jenkins'in temel amacı, geliştirme sürecindeki tekrarlanan işleri otomatikle
 
 Jenkins, birçok işletim sistemi ve platform üzerinde çalışabilir ve Java tabanlıdır. Jenkins, açık kaynak kodlu olması sayesinde kullanıcılar tarafından geliştirilebilir ve topluluk tarafından desteklenir. Bu nedenle, yaygın olarak kullanılan ve tercih edilen bir CI aracıdır.
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*fiOou8ZYaZe-Ka8NUyovMw.png)
+![Banner](https://miro.medium.com/v2/resize:fit:720/format:webp/1*fiOou8ZYaZe-Ka8NUyovMw.png)
